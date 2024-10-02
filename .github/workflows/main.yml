@@ -1,3 +1,3 @@
-- name: Unzipping and Publish to Sharepoint
- uses: ShwetaPatel19/action-sharepoint-publish@v2.0.2
+              - name: Unzipping and Publish to Sharepoint
+                uses: ShwetaPatel19/action-sharepoint-publish@v2.0.2
             
